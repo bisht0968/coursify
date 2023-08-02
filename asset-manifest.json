@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/projectCoursify/static/css/main.ccc1b300.css",
+    "main.js": "/projectCoursify/static/js/main.743371ca.js",
+    "static/media/banner.jpeg": "/projectCoursify/static/media/banner.dc6ce09d1f827395bb5f.jpeg",
+    "index.html": "/projectCoursify/index.html",
+    "main.ccc1b300.css.map": "/projectCoursify/static/css/main.ccc1b300.css.map",
+    "main.743371ca.js.map": "/projectCoursify/static/js/main.743371ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccc1b300.css",
+    "static/js/main.743371ca.js"
+  ]
+}
